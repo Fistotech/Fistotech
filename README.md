@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oputibeya Taribo James @Fistotech
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming.
+- 🌱 I’m currently learning programming @ Decagon Institute..
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me ...
 
